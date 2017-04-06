@@ -14,4 +14,5 @@ DummySysctl_stop(kmod_info_t *ki, void *d)
 {
     printf("DummySysctl_stop\n");
     return KERN_SUCCESS;
+   //ajay
 }
